@@ -1,0 +1,2 @@
+
+* Deberás autenticarte en la plataforma para obtener una ApiKey y poder realizar las peticiones.
